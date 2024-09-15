@@ -6,5 +6,7 @@ This repository contains a comprehensive analysis of furniture sales data in the
 Key Features:
 
 Dynamic sales performance dashboards.
+
 Monthly and yearly sales trends.
+
 Top-performing products and categories.
